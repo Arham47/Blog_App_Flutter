@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261620364335",
+    "project_id": "blogappflutter-d762e",
+    "storage_bucket": "blogappflutter-d762e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261620364335:android:0b4bd61443bb516f9ec2da",
+        "android_client_info": {
+          "package_name": "com.orbailix.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261620364335-s5ucrjic0g3njkks957g2q2ihhpv7rmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBM2yu8t34PGiopywrO9fVWdMIBe51lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261620364335-s5ucrjic0g3njkks957g2q2ihhpv7rmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
